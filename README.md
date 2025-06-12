@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE HTML>
 <html lang="pl">
 <head>
@@ -73,20 +75,20 @@
 	
 		<div id="nav">
 			<a href="https://michu-sys.github.io/komp0/"> Strona Główna </a>   <br />
-			<br></br>
+			<br>
 				Komponenty komputera:
-				<br></br>
+				<br>
 				
 			<a href="Płyta Główna.html"> -Płyta Główna </a>   <br />
-			<br></br>
+			<br>
 			<a href="Karta Graficzna.html"> -Karta Graficzna </a>   <br />
-			<br></br>
+			<br>
 		    <a href="Pamięć Ram.html"> -Pamięć Ram</a>   <br />
-			<br></br>
+			<br>
 			<a href="Zasilacz.html"> -Zasilacz </a>   <br />
-			<br></br>
+			<br>
 			<a href="Chłodzenie.html"> -Chłodzenie </a>   <br />
-			<br></br>
+			<br>
 			<a href="Dysk.html"> -Dysk HDD/SSD </a> <br />
 		</div>
 		
